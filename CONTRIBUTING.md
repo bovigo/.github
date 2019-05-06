@@ -1,5 +1,3 @@
-**Note: this is currently in draft mode and not finalised yet.**
-
 # How to contribute
 
 Thank you for your interest in contributing. We appreciate you taking the time to make this project better.
