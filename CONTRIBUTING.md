@@ -17,7 +17,7 @@ If an issue doesn't receive any updates within 14 days when more feedback was re
 ## Pull Requests
 
 * You can open a PR any time, but you should open it as a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/) if it's not ready for review or merging yet. Be sure to include a title and clear description, and as much relevant information as possible.
-* If you deem the PR ready change the status to "Ready for review" and request a review from the vfsStream team. You can also request a review while a PR is still in draft state to receive comments and feedback, but it can't be approved as long as it is in draft state.
+* If you deem the PR ready, change the status to "Ready for review" and request a review from the vfsStream team. You can also request a review while a PR is still in draft state to receive comments and feedback, but it can't be approved as long as it is in draft state.
 * A PR most likely adds a change which is relevant for the changelog. The review should ensure that an appropriate addition for the changelog is included.
 * A PR can be merged when at least two members of the team approve it and no other member rejects it. If the author is part of the team, it can't be approved by the author, two other team members need to give approval.
 * Anybody on the team can do the merge once approval and no rejection was given, this includes the author of the PR when it is a team member.
